@@ -1,0 +1,45 @@
+**Sequência de Cursos e Lives:**
+
+**CURSOS**
+
+1º - Boas-vindas ao Bootcamp Take Blip Web Developer
+2º - Lógica de Programção Essencial
+3º - Primeiros Passos Para Começar a Programar
+4º - Aprendendo o que são estruturas de Dados e Algoritmos
+5º - Introdução ao Git e ao GitHub
+6º - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+7º - Primeiros passos para desenvolvimento web
+8º - Introdução a criação de websites com HTML5 e CSS3
+9º - Construindo páginas para internet com Bootstrap
+10º - Recriando a Interface do Netflix
+11º - IDE Instalação e Configuração (Visual Studio Code)
+12º - Introdução ao JavaScript
+13º - Sintaxe Básica em JavaScript
+14º - Sintaxe e Operadores
+15º - Variáveis e Tipos
+16º - Funções
+17º - Coleções
+18º - Debugging e Error Handling
+19º - Javascript Assíncrono
+20º - Orientação a objetos
+21º - Map, Filter e Reduce
+22º - Manipulando a D.O.M com JavaScript
+23º - Resolvendo Desafios de Código em Javascript
+24º - Resolvendo desafios em JavaScript
+25º - Construindo o seu primeiro jogo de naves
+26º - MySql - Trabalhando com as suas primeiras tabelas
+27º - MySql - Explorando relacionamentos com worbench
+28º - MySql - Consultas com Join
+
+
+**LIVES**
+
+Mentoria #1: Aula Inaugural
+Mentoria #2: Apresentação da Take Blip
+Mentoria #3: Aplicando conceitos de GIT na prática
+Mentoria #4: Recriando interfaces com Bootstrap 5
+Mentoria #5: Tire as suas dúvidas sobre JavaScript - Conceitos básicos
+Mentoria #6: Tire as suas dúvidas sobre JavaScript - Conceitos avançados
+Mentoria #7: Evolução de profissionais de tecnologia
+Mentoria #8: Como resolver os desafios de código
+Mentoria #9: A inclusão no mercado digital
